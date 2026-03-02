@@ -1,0 +1,22 @@
+# Site Configuration
+title: Minimalist E-commerce Store
+author: John B
+description: A clean and minimal e-commerce platform
+url: https://example.com
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# E-commerce specific settings
+currency: USD
+products_per_page: 12
+
+# Social links
+social:
+  twitter: ""
+  github: ""
+
+# Contact
+email: contact@example.com
